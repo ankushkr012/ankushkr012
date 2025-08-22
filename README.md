@@ -97,4 +97,4 @@
 
 <p align="center">
   <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg" />
-</p> same but icon and animtaio and text colorful and 3d hader update some  beautfil icon and colorful text
+</p> 
