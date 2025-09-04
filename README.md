@@ -56,13 +56,13 @@
 <h2 align="center">🛠️ Projects & Contributions</h2>
 
 <p align="center">
-  <a href="https://github.com/Ankushkr13?tab=repositories">
+  <a href="https://github.com/Ankushkr012?tab=repositories">
     <img src="https://img.shields.io/badge/View%20My%20Projects-20232A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/pulls?q=is%3Apr+author%3AAnkushkr13+is%3Apublic">
     <img src="https://img.shields.io/badge/Open%20Source%20PRs-F85149?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Ankushkr13?tab=stars">
+  <a href="https://github.com/Ankushkr012?tab=stars">
     <img src="https://img.shields.io/badge/Starred%20Repos-yellow?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
@@ -72,13 +72,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankushkr13&show_icons=true&theme=radical&line_height=27" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankushkr012&show_icons=true&theme=radical&line_height=27" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushkr13&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushkr012&layout=compact&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankushkr13&theme=radical&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankushkr012&theme=radical&layout=compact" />
 </p>
 
 ---
