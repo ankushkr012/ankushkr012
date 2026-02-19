@@ -66,6 +66,16 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankushkr012&show_icons=true&theme=radical" />
+</p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankushkr012&theme=radical&cache_seconds=1800" />
+</p>
 
 
 
