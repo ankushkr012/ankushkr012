@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F75151&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Contributor;MERN+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F75151&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -41,13 +41,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -69,17 +66,8 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankushkr012&show_icons=true&theme=radical&line_height=27" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankushkr012&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankushkr012&theme=radical&layout=compact" />
-</p>
+
 
 ---
 
@@ -87,9 +75,9 @@
 
 <p align="center">
   <em>
-    🚀 I love building full-stack apps using the MERN stack.<br>
-    🧠 I'm always exploring new libraries, frameworks, and tools.<br>
-    🎯 Goal: To contribute to impactful open-source and startup projects.
+    🎨 I love crafting responsive and interactive user interfaces.<br>
+    🧠 I'm always exploring new frontend libraries, frameworks, and design trends.<br>
+    🎯 Goal: To build seamless and engaging user experiences.
   </em>
 </p>
 
@@ -97,4 +85,4 @@
 
 <p align="center">
   <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg" />
-</p> 
+</p>
